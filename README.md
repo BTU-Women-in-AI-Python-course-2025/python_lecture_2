@@ -40,4 +40,4 @@ Create a simple multiplication quiz that generates random multiplication problem
 
 ## Example output
 
-![Example output](readme_images/example_output.png)
+![Example output](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_2/blob/main/readme%20images/example_output.png)
